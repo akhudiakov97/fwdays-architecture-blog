@@ -1,0 +1,44 @@
+{
+    "sources": [
+      {
+        "id": "bbc",
+        "title": "BBC",
+        "image": "bbc.png"
+      },
+      {
+        "id": "cnn",
+        "title": "CNN",
+        "image": "cnn.png"
+      },
+      {
+        "id": "fox-news",
+        "title": "Fox News",
+        "image": "fox-news.png"
+      },
+      {
+        "id": "the-new-york-times",
+        "title": "The New York Times",
+        "image": "nyt.png"
+      },
+      {
+        "id": "the-washington-post",
+        "title": "The Washington Post",
+        "image": "washpost.png"
+      },
+      {
+        "id": "the-guardian",
+        "title": "The Guardian",
+        "image": "guardian.png"
+      },
+      {
+        "id": "reuters",
+        "title": "Reuters",
+        "image": "reuters.png"
+      },
+      {
+        "id": "the-wall-street-journal",
+        "title": "The Wall Street Journal",
+        "image": "wsj.png"
+      }
+    ]
+  }

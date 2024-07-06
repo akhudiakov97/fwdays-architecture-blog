@@ -8,8 +8,9 @@ const nextConfig = {
         new NextFederationPlugin({
           name: "host",
           remotes: {
-            remote: "movies@http://localhost:5002/assets/moviesRemoteEntry.js",
+            movies: "movies@http://localhost:5002/assets/moviesRemoteEntry.js",
           },
+          filename: 'assets/moviesRemoteEntry.js',
         })
       );
     }
